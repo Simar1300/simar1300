@@ -14,6 +14,7 @@ Welcome to my GitHub profile! I'm passionate about leveraging **data analytics**
 
 ## Projects  
 📊 **Business 360 Dashboard**  -
+
 📈 **P&L Report for AtliQ Hardware (FY 2022)**  
 🐍 **Amazon Web Scraping using Python**  
  
