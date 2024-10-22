@@ -13,10 +13,11 @@ Welcome to my GitHub profile! I'm passionate about leveraging **data analytics**
 - **Technologies:** GitHub | Web Scraping  
 
 ## Projects  
-📊 **Business 360 Dashboard**  -
-
-📈 **P&L Report for AtliQ Hardware (FY 2022)**  
+📊 **Business 360 Dashboard using Power bi**  
+📈 **P&L Excel Report for AtliQ Hardware (FY 2022)**  
 🐍 **Amazon Web Scraping using Python**  
+📊 **Hospitality Domain EDA using Python**  
+🗄️ **Finance and Sales Analytics – AtliQ Hardware (SQL)**  
  
 
 ## Let's Connect!  
@@ -24,5 +25,8 @@ Welcome to my GitHub profile! I'm passionate about leveraging **data analytics**
 - 📧 Email: [simarchawla767@gmail.com](mailto:simarchawla767@gmail.com)  
 
 Feel free to explore my repositories and reach out if you're interested in **collaboration opportunities** or just want to say hi! 😊
+
+
+
 
 
