@@ -3,7 +3,7 @@ Welcome to my GitHub profile! I'm passionate about leveraging **data analytics**
 
 ## About Me  
 💼 **Aspiring Data Analyst**  
-🌱 **Recently completed** a Data Analyst Internship at AtliQ Technologies  
+🌱 **Recently completed** a Data Analytics Internship at AtliQ Technologies  
 🎓 **B.E. in Electronics and Telecommunications Engineering** (8.54 CGPA)  
 
 ## Tools and Technologies  
