@@ -1,5 +1,5 @@
 # Hi there, I'm Simarpreet! 👋  
-Welcome to my GitHub profile! I'm passionate about leveraging **data analytics** to solve real-world problems and help businesses make informed decisions. With a background in **Electronics and Telecommunications Engineering**, I have developed a strong foundation in **data analytics, visualization, and programming tools**. I enjoy creating insightful dashboards and reports to drive business value and optimize operations.  
+Welcome to my GitHub profile! I'm passionate about leveraging **data analytics** skills to solve real-world problems and help businesses make informed decisions. With a background in **Electronics and Telecommunications Engineering**, I have developed a strong foundation in **data analytics, visualization, and programming tools**. I enjoy creating insightful dashboards and reports to drive business value and optimize operations.  
 
 ## About Me  
 💼 **Aspiring Data Analyst**  
